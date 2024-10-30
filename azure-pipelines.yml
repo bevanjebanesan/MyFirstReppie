@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: bevan_d
+
 
 steps:
 - script: echo Hello, world!
